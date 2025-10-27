@@ -1,0 +1,10 @@
+
+Documentation link: https://docs.google.com/document/d/1VlHirN62sWE1CwXr4v2YM40sg8luskD6VY4A2gKOHK4/edit?tab=t.0
+Repo link: https://github.com/sunnysavita10/automated-research-report-generation
+
+Suny Email Id: snshrivas3365@gmail.com
+
+To search all the resources in your AWS account, -> Search for AWS Resource Group, search for all region and all supportes resource types.
+
+
+
